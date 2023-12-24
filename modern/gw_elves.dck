@@ -1,0 +1,32 @@
+1 [AKH:38] Vizier of Remedies
+1 [M19:196] Reclamation Sage
+2 [VIS:117] Quirion Ranger
+4 [KHM:188] Realmwalker
+3 [DMU:167] Leaf-Crowned Visionary
+2 [SOM:119] Ezuri, Renegade Leader
+4 [MOR:126] Heritage Druid
+4 [M13:168] Elvish Archdruid
+4 [KHM:167] Elvish Warmaster
+4 [EVE:71] Nettle Sentinel
+4 [M15:172] Chord of Calling
+3 [M15:173] Elvish Mystic
+3 [M19:314] Llanowar Elves
+1 [NEO:266] Boseiju, Who Endures
+2 [GRN:258] Temple Garden
+1 [ONE:257] Razorverge Thicket
+1 [FUT:177] Horizon Canopy
+4 [KTK:248] Windswept Heath
+4 [LCI:269] Cavern of Souls
+4 [SHM:110] Devoted Druid
+4 [MKM:276] Forest
+SB: 2 [SHM:227] Fracturing Gust
+SB: 1 [10E:261*] Elvish Champion
+SB: 1 [EMN:40] Selfless Spirit
+SB: 1 [M21:204] Scavenging Ooze
+SB: 2 [RTR:18] Rest in Peace
+SB: 2 [CON:10] Mark of Asylum
+SB: 3 [IKO:11] Drannith Magistrate
+SB: 2 [CON:15] Path to Exile
+SB: 1 [M19:196] Reclamation Sage
+LAYOUT MAIN:(1,4)(CMC,false,50)|([NEO:266],[GRN:258],[GRN:258],[ONE:257],[FUT:177],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[LCI:269],[LCI:269],[LCI:269],[LCI:269],[MKM:276],[MKM:276],[MKM:276],[MKM:276])([VIS:117],[VIS:117],[MOR:126],[MOR:126],[MOR:126],[MOR:126],[EVE:71],[EVE:71],[EVE:71],[EVE:71],[M15:173],[M15:173],[M15:173],[M19:314],[M19:314],[M19:314])([AKH:38],[DMU:167],[DMU:167],[DMU:167],[KHM:167],[KHM:167],[KHM:167],[KHM:167],[SHM:110],[SHM:110],[SHM:110],[SHM:110])([M19:196],[KHM:188],[KHM:188],[KHM:188],[KHM:188],[SOM:119],[SOM:119],[M13:168],[M13:168],[M13:168],[M13:168],[M15:172],[M15:172],[M15:172],[M15:172])
+LAYOUT SIDEBOARD:(1,2)(RARITY,false,50)|([CON:15],[CON:15],[M19:196])([SHM:227],[SHM:227],[10E:261*],[EMN:40],[M21:204],[RTR:18],[RTR:18],[CON:10],[CON:10],[IKO:11],[IKO:11],[IKO:11])

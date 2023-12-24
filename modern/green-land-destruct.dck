@@ -1,0 +1,27 @@
+NAME:green land destruct
+2 [M13:159] Acidic Slime
+4 [M13:160] Arbor Elf
+2 [M15:173] Elvish Mystic
+4 [5DN:86] Eternal Witness
+19 [WAR:262] Forest
+1 [M15:178] Hornet Queen
+1 [M19:314] Llanowar Elves
+4 [TSP:207] Mwonvuli Acid-Moss
+1 [TSB:120] Pendelhaven
+2 [8ED:272] Plow Under
+4 [LRW:233] Primal Command
+3 [RNA:227] Repudiate // Replicate
+1 [SOK:150] Stampeding Serow
+3 [DST:154] Trinisphere
+4 [DIS:99] Utopia Sprawl
+3 [M19:208] Vivien Reid
+2 [AER:181] Walking Ballista
+SB: 2 [DKA:149] Grafdigger's Cage
+SB: 3 [M11:188] Obstinate Baloth
+SB: 2 [SHM:127] Raking Canopy
+SB: 2 [M14:215] Ratchet Bomb
+SB: 2 [M14:195] Scavenging Ooze
+SB: 2 [M15:237] Tormod's Crypt
+SB: 2 [AER:181] Walking Ballista
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([AER:181],[AER:181])([DST:154],[DST:154],[DST:154])([M13:159],[M13:159],[M13:160],[M13:160],[M13:160],[M13:160],[M15:173],[M15:173],[5DN:86],[5DN:86],[5DN:86],[5DN:86],[M15:178],[M19:314],[SOK:150])([DIS:99],[DIS:99],[DIS:99],[DIS:99])([RNA:227],[RNA:227],[RNA:227])([WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[TSB:120])([M19:208],[M19:208],[M19:208])([TSP:207],[TSP:207],[TSP:207],[TSP:207],[8ED:272],[8ED:272],[LRW:233],[LRW:233],[LRW:233],[LRW:233])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DKA:149],[DKA:149],[M11:188],[M11:188],[M11:188],[SHM:127],[SHM:127],[M14:215],[M14:215],[M14:195],[M14:195],[M15:237],[M15:237],[AER:181],[AER:181])
