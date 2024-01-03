@@ -1,0 +1,36 @@
+4 [AKH:38] Vizier of Remedies
+2 [AER:57] Fatal Push
+2 [C13:99] Viscera Seer
+4 [10E:252] Birds of Paradise
+4 [M15:172] Chord of Calling
+4 [DTK:177] Collected Company
+4 [SHM:110] Devoted Druid
+1 [SOI:203] Duskwatch Recruiter
+3 [EMN:155] Eldritch Evolution
+3 [MMA:144] Eternal Witness
+3 [MM2:151] Noble Hierarch
+1 [M21:204] Scavenging Ooze
+4 [SHM:229] Kitchen Finks
+1 [AER:181] Walking Ballista
+2 [10E:380] Forest
+2 [MOC:406] Gavony Township
+1 [RNA:248] Godless Shrine
+1 [FUT:177] Horizon Canopy
+2 [RAV:279] Overgrown Tomb
+1 [10E:364] Plains
+1 [ZNE:15] Razorverge Thicket
+1 [10E:372] Swamp
+2 [RAV:284] Temple Garden
+4 [KTK:248] Windswept Heath
+4 [KTK:249] Wooded Foothills
+SB: 2 [PRM:59681] Abrupt Decay
+SB: 1 [PLC:63] Big Game Hunter
+SB: 2 [JOU:10] Eidolon of Rhetoric
+SB: 2 [SOK:14] Kataki, War's Wage
+SB: 1 [GPT:124] Orzhov Pontiff
+SB: 3 [CON:15] Path to Exile
+SB: 2 [PRM:37608] Qasali Pridemage
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 1 [2XM:227] Voice of Resurgence
+LAYOUT MAIN:(1,5)(CMC,false,50)|([AER:181],[10E:380],[10E:380],[MOC:406],[MOC:406],[RNA:248],[FUT:177],[RAV:279],[RAV:279],[10E:364],[ZNE:15],[10E:372],[RAV:284],[RAV:284],[KTK:248],[KTK:248],[KTK:248],[KTK:248],[KTK:249],[KTK:249],[KTK:249],[KTK:249])([AER:57],[AER:57],[C13:99],[C13:99],[10E:252],[10E:252],[10E:252],[10E:252],[MM2:151],[MM2:151],[MM2:151])([AKH:38],[AKH:38],[AKH:38],[AKH:38],[SHM:110],[SHM:110],[SHM:110],[SHM:110],[SOI:203],[M21:204])([M15:172],[M15:172],[M15:172],[M15:172],[EMN:155],[EMN:155],[EMN:155],[MMA:144],[MMA:144],[MMA:144],[SHM:229],[SHM:229],[SHM:229],[SHM:229])([DTK:177],[DTK:177],[DTK:177],[DTK:177])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([CON:15],[CON:15],[CON:15],[ALA:218])([PRM:59681],[PRM:59681],[SOK:14],[SOK:14],[PRM:37608],[PRM:37608],[2XM:227])([PLC:63],[JOU:10],[JOU:10],[GPT:124])
